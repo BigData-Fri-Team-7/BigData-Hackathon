@@ -20,3 +20,4 @@ seaborn
 wordcloud
 serpapi
 mistralai
+nltk
