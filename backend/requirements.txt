@@ -6,7 +6,7 @@ plotly
 pandas
 boto3
 sentence-transformers
-pinecone-client
+pinecone
 langgraph
 langchain
 tiktoken
