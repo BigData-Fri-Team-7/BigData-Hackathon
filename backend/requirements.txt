@@ -19,3 +19,5 @@ matplotlib
 seaborn
 wordcloud
 serpapi
+mistralai
+nltk
