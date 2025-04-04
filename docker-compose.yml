@@ -1,0 +1,11 @@
+services:
+  backend:
+    build: ./backend
+    env_file: .env           # Loads environment variables (e.g., API keys, Snowflake creds)
+    ports:
+      - "8000:8000"          # Maps host port 8000 to container port 8000
+  streamlit:
+    build: ./frontend
+    env_file: .env           # Reuse the same .env file if appropriate
+    ports:
+      - "8501:8501"          # Maps host port 8501 to container port 8501
