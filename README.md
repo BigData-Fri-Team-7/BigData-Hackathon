@@ -41,6 +41,7 @@ A comprehensive patent analytics research platform that provides backend APIs fo
 ---
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/dbce9514-94c0-4bd4-a402-36a6b619c992)
 
 The project consists of two main components:
 
