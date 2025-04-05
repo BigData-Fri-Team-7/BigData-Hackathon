@@ -1,7 +1,7 @@
 # Patent Analytics Research Assistant
 
 A comprehensive patent analytics research platform that provides backend APIs for processing patent PDFs, generating research reports using state-of-the-art language models, and creating interactive visualizations. The project integrates various services such as AWS S3, Pinecone, Snowflake, SerpAPI, and multiple LLM providers. A Streamlit-based frontend offers an interactive dashboard for users to process patents and view results.
-
+##FrontEnd:http://34.30.2.49:8501    ##Backend:http://34.30.2.49:8000
 ---
 
 ## Table of Contents
