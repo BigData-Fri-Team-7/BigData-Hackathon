@@ -23,5 +23,5 @@ mistralai
 nltk
 google-search-results==2.4.2
 snowflake-connector-python==3.4.0
-snowflake-proto
+
 
