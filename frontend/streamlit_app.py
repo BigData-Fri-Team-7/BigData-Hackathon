@@ -4,7 +4,7 @@ import re
 import plotly.io as pio
 
 # Backend API URL
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "http://34.30.2.49:8000"
 
 st.set_page_config(page_title="Patent Analytics Research Assistant", layout="wide")
 st.title("📈 Patent Analytics Research Dashboard")
