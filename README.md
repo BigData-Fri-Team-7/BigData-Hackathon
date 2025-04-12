@@ -8,7 +8,7 @@ A comprehensive patent analytics research platform that provides backend APIs fo
 ##Demo Video:https://www.loom.com/share/db43dce9963b4a4b8b5ec485261d2294?sid=144b5971-1dc6-45cb-8995-2fbbd4fd2c11
 
 
-#Code Lab:https://codelabs-preview.appspot.com/?file_id=1ldqqqhqLLGzsK-IgaUzhu5AldJs95aoBqzta1vpZ8kM#3
+#Code Lab: https://codelabs-preview.appspot.com/?file_id=1ldqqqhqLLGzsK-IgaUzhu5AldJs95aoBqzta1vpZ8kM#3
 ---
 
 ## Table of Contents
