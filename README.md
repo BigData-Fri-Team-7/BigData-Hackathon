@@ -9,6 +9,8 @@ A comprehensive patent analytics research platform that provides backend APIs fo
 
 #Code Lab:https://codelabs-preview.appspot.com/?file_id=1ldqqqhqLLGzsK-IgaUzhu5AldJs95aoBqzta1vpZ8kM#3
 
+#Report Sample:[Research Report Sample.pdf](https://github.com/user-attachments/files/19745363/Research.Report.Sample.pdf)
+
 ---
 
 ## Table of Contents
